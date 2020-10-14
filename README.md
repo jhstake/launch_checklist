@@ -1,6 +1,9 @@
 # Ethereum Staking Launch preparedness checklist
 Staking Experience Checklist - Check as many of these boxes as you can before staking on mainnet. These are skills that you ought to have a good understanding of before putting your funds at risk.
 
+- [ ] SSH into server from same network
+
+- [ ] SSH into server from different network (port forwarding)
 
 - [ ] Successfully run Medalla +1 month
 
